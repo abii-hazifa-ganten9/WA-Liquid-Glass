@@ -1,4 +1,4 @@
-name: Build APK
+name: waglassliquid
 on: [push]
 jobs:
   build:
